@@ -1,4 +1,4 @@
 package com.example.expensesapp
 
-class ItemsAdapter {
+class ItemsAdapter:  {
 }

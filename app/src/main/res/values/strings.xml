@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">expensesApp</string>
-    <string name="add_expense_txt">Add Expense Item</string>
+    <string name="add_expense_txt">Add An Expense Item</string>
     <string name="main_app_txt">Expense Tracker</string>
-    <string name="floating_button_txt">add expense</string>
-</resources>
+    <string name="floating_button_txt">#</string>
