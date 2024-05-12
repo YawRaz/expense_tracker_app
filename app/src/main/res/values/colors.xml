@@ -8,5 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="vector_tint">#BDBBAD</color>
-    <color name="heavy_charcoal">#56514</color>
+    <color name="heavy_charcoal">#56514B</color>
+    <color name="text_alt_color">#E7E5DD</color>
+    <color name="hurricane_haze">#BDBBAD</color>
+    <color name="category_title_text">#999990</color>
+    <color name="button_color">#56514B</color>
 </resources>

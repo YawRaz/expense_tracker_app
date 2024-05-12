@@ -4,7 +4,7 @@
     <string name="main_app_txt">Expense Tracker</string>
     <string name="floating_button_txt">#</string>
     <string name="add_item_description_txt">Add item description</string>
-    <string name="enter_item_amount_txt">enter item amount</string>
+    <string name="enter_item_amount_txt">Enter item amount</string>
     <string name="food_category_text">Food</string>
     <string name="categories_text_view">Categories</string>
     <string name="health_category_text">Health</string>
@@ -12,3 +12,4 @@
     <string name="bill_category_text">Bills</string>
     <string name="add_btn_text">ADD</string>
     <string name="cancel_btn_text">Cancel</string>
+</resources>
